@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="titre_app">Currency Converter</string>
+    <string name="btn_convertir">Convertir</string>
+    <string name="toast_saisir_montant">Veuillez saisir un montant</string>
+    <string name="desc_btn_inverser">Inverser les devises</string>
+
+    <string-array name="devises">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
+    </string-array>
+</resources>
